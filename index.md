@@ -2,12 +2,14 @@
 layout: master
 include: workshop
 
+# title and subtitle
+title: CodeRefinery workshop at TU Delft
+subtitle: 'In collaboration with <a href="https://researchdata.4tu.nl/en/" target="_blank">4TU.Centre for Research Data</a>'
+
 # location and address
 # you can also link to a map using e.g. openstreetmap, for example:
-# location: "<a https://www.openstreetmap.org/node/1771739362">Teknikringen 14, 11428 Stockholm</a>
-location: "Room/location TBA"
-address: "Address TBA"
-city: CITY
+location: '<a href="https://www.openstreetmap.org/#map=19/51.98984/4.37517" target="_blank">TU Delft Faculty of Aerospace Hall J (62-1-20.1)</a>'
+address: "Kluyverweg 1, 2629 HS Delft, Netherlands"
 
 # date and time
 time: "9:00 - 17:00"
