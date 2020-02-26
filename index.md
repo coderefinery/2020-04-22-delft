@@ -17,7 +17,7 @@ dates: "April 22-24, 2020"
 
 # Add link to registration form here and specify when the registration opens and whether it is closed
 registration_form:
-registration_open_date: Feb 28, 2020
+registration_open_date: March 2, 2020
 registration_is_closed: false
 
 # names of instructors and helpers
